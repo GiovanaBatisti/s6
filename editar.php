@@ -12,6 +12,7 @@ $resultados=mysqli_fetch_array($sql_consulta);
 
 ?>
 
+
 <!DOCTYPE html>
 <html lang="pt-br">
 <head>

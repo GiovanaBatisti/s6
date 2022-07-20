@@ -7,6 +7,7 @@ $id = $_GET['codigo'];
 $sql_eliminar=mysqli_query($ligar , " DELETE FROM tb_usuarios WHERE id='$id' ");
 
 if($sql_eliminar==true){
+    
 
     echo " <script>
     

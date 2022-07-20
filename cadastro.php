@@ -13,6 +13,7 @@ if($sql_cadastro==true){
 
     echo " <script>
 
+    
     alert('usuário Cadastrado com sucesso');
 window.location.href='index.html';
 </script>";
